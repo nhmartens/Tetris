@@ -9,6 +9,7 @@ Navigate to the project directory:
 cd tetris
 ```
 Create a build directory and navigate to it:
+```
 mkdir build
 cd build
 ```
